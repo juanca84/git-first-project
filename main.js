@@ -1,1 +1,3 @@
-console.log("prueba 1")
+function suma(x) {
+  return x + 3;
+}
